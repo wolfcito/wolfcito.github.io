@@ -17,7 +17,7 @@
     }
     
     /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
-    .row.content {height: 450px}
+    .row.content {height: 545px}
     
     /* Set gray background color and 100% height */
     .sidenav {
@@ -42,6 +42,23 @@
       .row.content {height:auto;} 
     }
   </style>
+  <script>
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip();   
+
+    $("#inf-proy").click(function(){
+      $("#info").html("<p><b>Proyecto Chesscito</b></p>
+      <p>Las herramientas empleadas en el desarrollo del proyecto son:</p>
+      <hr>
+      <p> - Versión 3.0</p>
+      <p> - HTML 5</p>
+      <p> - CSS 3 </p>
+      <p> - Javascript </p>
+      <p></p>");  
+    });
+    
+});
+</script>
 </head>
 <body>
 
@@ -81,8 +98,8 @@
       <p><img class="img-circle" src="https://avatars2.githubusercontent.com/u/791301?v=3&s=460" style="width:100px"></p>
       <p><b>L̖uis Fernando</b></p>
     </div>
-      
-      <p><a href="https://www.facebook.com/guffenix"> <span class="glyphicon glyphicon-thumbs-up"></span> /guffenix </a></p>
+      <hr>
+      <p><a data-toggle="tooltip" title="Perfil de facebook" target="_blank" href="https://www.facebook.com/guffenix"> <span class="glyphicon glyphicon-thumbs-up"></span> /guffenix </a></p>
       <p><span class="glyphicon glyphicon-map-marker"></span> Ecuador, EC</p>
       <p><span class="glyphicon glyphicon-envelope"></span> lfushina@espe.edu.ec</p>
       <hr>
@@ -93,7 +110,37 @@
       <p><b><span class="glyphicon glyphicon-stats"></span> Estado de proyectos </b></p>
       <p>Estado porcentual del avance de proyectos.</p>
       <hr>
-      <p><a href="https://github.com/guffenix/Chesscito"> <span class="glyphicon glyphicon-eye-open"></span> Chesscito </a></p>
+      <div class="row">
+        <div class="col-sm-1">
+          <p>
+            <a href="https://github.com/guffenix/Chesscito" data-toggle="tooltip" title="Ir al proyecto!" target="_blank" class="label label-success">
+              <span class="glyphicon glyphicon-new-window"></span> 
+            </a>
+          </p>
+        </div>
+        <div class="col-sm-1" id="inf-proy">
+          <p>
+            <a href="" class="label label-primary" data-toggle="tooltip" title="Información del proyecto">
+              <span class="glyphicon glyphicon-eye-open"></span> 
+            </a>
+          </p>
+        </div>
+        <div class="col-sm-10">
+          <p><b> Chesscito </b> <div style="float:right;">
+<script type="text/javascript">
+//<![CDATA[
+var  today = new Date();
+var d = today.getDate();
+var dia = (d < 10) ? '0' + d : d;
+var m = today.getMonth() + 1;
+var mes = (m < 10) ? '0' + m : m;
+  document.write('Última Actualización: '+dia,'/' +mes,'/'+today.getFullYear());
+//]]> 
+</script></div>
+</p>
+        </div>
+      </div>
+
       <div class="progress">
         <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
           70% (Completo)
@@ -108,11 +155,18 @@
       <div class="well">
       <p>Universidad de las Fuerzas Armadas – ESPE</p>
       <p><i>Ingeniería en Sistemas e Informática</i></p>
+      <p>Cursando 6to nivel</p>
       </div>
     <p><b><span class="glyphicon glyphicon-wrench"></span> Herramientas </b></p>
-      <div class="well">
-      <p>Herramientas utilizadas para el presente proyecto</p>
-        
+      <div class="well" id="info">
+      <p>Proyecto Chesscito</p>
+      <p>Las herramientas empleadas en el desarrollo del proyecto son:</p>
+      <hr>
+      <p> - Versión 3.0</p>
+      <p> - HTML 5</p>
+      <p> - CSS 3 </p>
+      <p> - Javascript </p>
+      <p></p>
       </div>
     </div>
   </div>
@@ -124,3 +178,4 @@
 
 </body>
 </html>
+

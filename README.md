@@ -1,2 +1,2 @@
-# guffenix.github.io
+# Proyectos personales
 Descripción de proyectos

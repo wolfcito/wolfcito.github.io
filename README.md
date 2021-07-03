@@ -1,2 +1,3 @@
 # Proyectos personales
-Descripción de proyectos
+
+Lista de mis proyectos personasles.

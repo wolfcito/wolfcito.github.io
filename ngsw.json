@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1648781838311,
+  "timestamp": 1648943628959,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,14 +13,11 @@
       "urls": [
         "/favicon.png",
         "/index.html",
-        "/main-es2015.0da0ee60eef765e73b36.js",
-        "/main-es5.0da0ee60eef765e73b36.js",
+        "/main.7c1284b7cca74ab7.js",
         "/manifest.webmanifest",
-        "/polyfills-es2015.9fcc56ee99c5e9fa3450.js",
-        "/polyfills-es5.5bac3e90c85010066222.js",
-        "/runtime-es2015.a4dadbc03350107420a4.js",
-        "/runtime-es5.a4dadbc03350107420a4.js",
-        "/styles.4a2eb44e47fa73e2447e.css"
+        "/polyfills.5266946b075cc62c.js",
+        "/runtime.dadfbf3fb1e524eb.js",
+        "/styles.7846079b34cc982c.css"
       ],
       "patterns": []
     },
@@ -32,13 +29,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/favicon/favicon-DEV.ico",
-        "/assets/favicon/favicon-PROD.ico",
-        "/assets/fonts/GeomanistWord-Bold.eot",
-        "/assets/fonts/GeomanistWord-Bold.woff",
-        "/assets/fonts/bariol_regular.woff",
-        "/assets/fonts/glyphicons-halflings-regular.woff",
-        "/assets/fonts/glyphicons-halflings-regular.woff2",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -47,31 +37,13 @@
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
-        "/assets/images/avatar_guffenix.png",
-        "/assets/scss/modules/_mixins.scss",
-        "/assets/scss/modules/_utility.scss",
-        "/assets/scss/modules/_var.scss",
-        "/assets/scss/partials/_buttons.scss",
-        "/assets/scss/partials/_global.scss",
-        "/assets/scss/partials/_grids.scss",
-        "/assets/scss/partials/_keyframes.scss",
-        "/assets/scss/partials/_reset.scss",
-        "/assets/scss/partials/_typography.scss",
-        "/assets/svg/logo-mv.svg",
-        "/assets/svg/more.svg"
+        "/assets/images/avatar_guffenix.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/favicon/favicon-DEV.ico": "aa4fb0706ed367fb5c2fd6bd2b058c0dce8cc785",
-    "/assets/favicon/favicon-PROD.ico": "5d40a29d26398292f08a46b26f6788ec60f5f43e",
-    "/assets/fonts/GeomanistWord-Bold.eot": "7a4215edaa23d2e8ec593835a47fb1581a103f25",
-    "/assets/fonts/GeomanistWord-Bold.woff": "b3daaa6fcf9b2e994b71aae5d5239bfd0b471ad7",
-    "/assets/fonts/bariol_regular.woff": "f412046d56742edb08f60d695b90029ac10fc009",
-    "/assets/fonts/glyphicons-halflings-regular.woff": "278e49a86e634da6f2a02f3b47dd9d2a8f26210f",
-    "/assets/fonts/glyphicons-halflings-regular.woff2": "ca35b697d99cae4d1b60f2d60fcd37771987eb07",
     "/assets/icons/icon-128x128.png": "46c840a48178372898547f7ecaf29faaffd7c0a5",
     "/assets/icons/icon-144x144.png": "52c98fa26d15f1935127e38bf11c207ca46e6700",
     "/assets/icons/icon-152x152.png": "2328b9fbec664638dfd0b082a2786bb9832fee58",
@@ -81,27 +53,13 @@
     "/assets/icons/icon-72x72.png": "f45e25fe7024dc618e828dc03af364998eb872e8",
     "/assets/icons/icon-96x96.png": "cd69badc010745471bd9353996051279ef512e8c",
     "/assets/images/avatar_guffenix.png": "0a11c50c2cf78aa50d47251bdfdc18be3a1ca45c",
-    "/assets/scss/modules/_mixins.scss": "b3f8b55598144beff40b157522da7031aeca0ac4",
-    "/assets/scss/modules/_utility.scss": "9b7887c0a153ac2575afdfddb75c895701cddfd4",
-    "/assets/scss/modules/_var.scss": "93c8a3bc8e9f0af864da899de5f1c6dd855a8bf6",
-    "/assets/scss/partials/_buttons.scss": "21bcc038a419ae451b900b95388bfe88de08f9c8",
-    "/assets/scss/partials/_global.scss": "9ee273facc00ebe57233ef3f636d2eba9e2488a4",
-    "/assets/scss/partials/_grids.scss": "e5271efc5c69dd295d76ab6155b9ec73fd637a7a",
-    "/assets/scss/partials/_keyframes.scss": "ba8a75b8fa7f1e4d590538fa31a994c9402523a6",
-    "/assets/scss/partials/_reset.scss": "0641dce6239b454ce098ee9cfd74ebd84d27d3ec",
-    "/assets/scss/partials/_typography.scss": "b89a56847c3244b2be8539f6b939faf33315959c",
-    "/assets/svg/logo-mv.svg": "3792268b818c9befec5db44d04dc48d5b7c3f68c",
-    "/assets/svg/more.svg": "9838cd822e0f989a0befbd365365ee2751bbdebc",
     "/favicon.png": "f45e25fe7024dc618e828dc03af364998eb872e8",
-    "/index.html": "7db12b5929bb809c7abd85ad664aa3d3368a5ad2",
-    "/main-es2015.0da0ee60eef765e73b36.js": "2ce2643e458280abc5ecf40893ab84cc719475bf",
-    "/main-es5.0da0ee60eef765e73b36.js": "5793e683c099977e33c7ea7b5f73ea7068e27bf0",
-    "/manifest.webmanifest": "7b9ccd63b197163e4131e0ed3f0d3953dd2da6ff",
-    "/polyfills-es2015.9fcc56ee99c5e9fa3450.js": "1ebe8e4e712defc7b552f831b15539d3097c7813",
-    "/polyfills-es5.5bac3e90c85010066222.js": "6052fba90fb2f92a25758bb49f231cd53ed68b06",
-    "/runtime-es2015.a4dadbc03350107420a4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/runtime-es5.a4dadbc03350107420a4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.4a2eb44e47fa73e2447e.css": "06fde42519317a614137a43aa7d733cb0b95bc57"
+    "/index.html": "3fe61a19929f28584c93f2ec821571b06a341bbd",
+    "/main.7c1284b7cca74ab7.js": "51156fe91603f06c1766971edafec11f0ee4edd3",
+    "/manifest.webmanifest": "4c1ff5cbcbf89577eb3e04249fcf72e7f2efe8b0",
+    "/polyfills.5266946b075cc62c.js": "922667bac8dcf5d611700cc2821c5eb99c404a6b",
+    "/runtime.dadfbf3fb1e524eb.js": "ba70241f6b1728bec35ad08e51a3c025e99f6119",
+    "/styles.7846079b34cc982c.css": "e2ade64be0718cb0cc51840afb52a89bd5014a5f"
   },
   "navigationUrls": [
     {

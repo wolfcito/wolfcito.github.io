@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1648943628959,
+  "timestamp": 1648948882516,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.png",
         "/index.html",
-        "/main.7c1284b7cca74ab7.js",
+        "/main.f4c3d07efa1f1093.js",
         "/manifest.webmanifest",
         "/polyfills.5266946b075cc62c.js",
         "/runtime.dadfbf3fb1e524eb.js",
-        "/styles.7846079b34cc982c.css"
+        "/styles.0df00bb4cff81a98.css"
       ],
       "patterns": []
     },
@@ -54,12 +54,12 @@
     "/assets/icons/icon-96x96.png": "cd69badc010745471bd9353996051279ef512e8c",
     "/assets/images/avatar_guffenix.png": "0a11c50c2cf78aa50d47251bdfdc18be3a1ca45c",
     "/favicon.png": "f45e25fe7024dc618e828dc03af364998eb872e8",
-    "/index.html": "3fe61a19929f28584c93f2ec821571b06a341bbd",
-    "/main.7c1284b7cca74ab7.js": "51156fe91603f06c1766971edafec11f0ee4edd3",
+    "/index.html": "2a9ac0fd8da02d3e979e5a1a14ca30e5600c08d7",
+    "/main.f4c3d07efa1f1093.js": "dcd9d19bb60909003646a18cbdaa754ea2f374c0",
     "/manifest.webmanifest": "4c1ff5cbcbf89577eb3e04249fcf72e7f2efe8b0",
     "/polyfills.5266946b075cc62c.js": "922667bac8dcf5d611700cc2821c5eb99c404a6b",
     "/runtime.dadfbf3fb1e524eb.js": "ba70241f6b1728bec35ad08e51a3c025e99f6119",
-    "/styles.7846079b34cc982c.css": "e2ade64be0718cb0cc51840afb52a89bd5014a5f"
+    "/styles.0df00bb4cff81a98.css": "de26eb979124403df76a543c2e623bc1aa6ae0fb"
   },
   "navigationUrls": [
     {

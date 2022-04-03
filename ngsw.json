@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1648952400958,
+  "timestamp": 1648952614461,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.png",
         "/index.html",
-        "/main.a30fac794c3c9759.js",
+        "/main.c81b15492946b56a.js",
         "/manifest.webmanifest",
         "/polyfills.5266946b075cc62c.js",
         "/runtime.dadfbf3fb1e524eb.js",
@@ -54,8 +54,8 @@
     "/assets/icons/icon-96x96.png": "cd69badc010745471bd9353996051279ef512e8c",
     "/assets/images/avatar_guffenix.png": "0a11c50c2cf78aa50d47251bdfdc18be3a1ca45c",
     "/favicon.png": "f45e25fe7024dc618e828dc03af364998eb872e8",
-    "/index.html": "92b7f20c6d5e94236bd701d96202ea6b8f97ffd1",
-    "/main.a30fac794c3c9759.js": "0b6afd183b4609437bbf4bb63d11c9f0045c34ed",
+    "/index.html": "b37d0e8d73c704d383fa137c8fa2b08228089ffa",
+    "/main.c81b15492946b56a.js": "ef5f4cf140523f182c4d3fd68a1997ab82556e26",
     "/manifest.webmanifest": "35e8b147883c95d10e8c775a9ca4406a3c68a811",
     "/polyfills.5266946b075cc62c.js": "922667bac8dcf5d611700cc2821c5eb99c404a6b",
     "/runtime.dadfbf3fb1e524eb.js": "ba70241f6b1728bec35ad08e51a3c025e99f6119",

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1648961874552,
+  "timestamp": 1650811887475,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.png",
         "/index.html",
-        "/main.9e2554d088587818.js",
+        "/main.9bb4fd465e76c510.js",
         "/manifest.webmanifest",
         "/polyfills.5266946b075cc62c.js",
         "/runtime.dadfbf3fb1e524eb.js",
-        "/styles.b49d50393e73de7b.css"
+        "/styles.e6a7ecc3ad83eb2b.css"
       ],
       "patterns": []
     },
@@ -38,7 +38,9 @@
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
-        "/assets/images/avatar_guffenix.png"
+        "/assets/images/avatar_guffenix.png",
+        "/assets/model/avatar_lufer.glb",
+        "/assets/model/avatar_lufer_ani.glb"
       ],
       "patterns": []
     }
@@ -55,13 +57,15 @@
     "/assets/icons/icon-72x72.png": "f45e25fe7024dc618e828dc03af364998eb872e8",
     "/assets/icons/icon-96x96.png": "cd69badc010745471bd9353996051279ef512e8c",
     "/assets/images/avatar_guffenix.png": "0a11c50c2cf78aa50d47251bdfdc18be3a1ca45c",
+    "/assets/model/avatar_lufer.glb": "6e4084081231b138a238ad06ea94a95848327dc6",
+    "/assets/model/avatar_lufer_ani.glb": "f4b609fad9d6bca9981d1de508c647a72efd3f85",
     "/favicon.png": "f45e25fe7024dc618e828dc03af364998eb872e8",
-    "/index.html": "61d74afe5641979afdd4d07372cfa937544e7e23",
-    "/main.9e2554d088587818.js": "19b61206988104e2a3f8ba8f39a14a563de40952",
+    "/index.html": "5bf34eb28398798947d6302308d7f2f32a4cf827",
+    "/main.9bb4fd465e76c510.js": "5285fd49c3cabde3c12a067ba22535239b2c1caf",
     "/manifest.webmanifest": "35e8b147883c95d10e8c775a9ca4406a3c68a811",
     "/polyfills.5266946b075cc62c.js": "922667bac8dcf5d611700cc2821c5eb99c404a6b",
     "/runtime.dadfbf3fb1e524eb.js": "ba70241f6b1728bec35ad08e51a3c025e99f6119",
-    "/styles.b49d50393e73de7b.css": "e94acb3c46e40557f9ed16f7dd003d05c1bb5a01"
+    "/styles.e6a7ecc3ad83eb2b.css": "fa6e426323041be9aaf6f955719a545da4264855"
   },
   "navigationUrls": [
     {
